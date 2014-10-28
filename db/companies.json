@@ -1,0 +1,21 @@
+{
+  "_id":{"$oid":"000000000000000000000001"},
+  "name":"Sarah, Inc.",
+  "email":"sarah@example.com",
+  "contact":"Sarah",
+  "products":[{"$oid":"333333333333333333333333"}, {"$oid":"444444444444444444444444"}]
+}
+{
+  "_id":{"$oid":"000000000000000000000002"},
+  "name":"Courtney, Inc.",
+  "email":"courtney@example.com",
+  "contact":"Courtney",
+  "products":[{"$oid":"555555555555555555555555"}, {"$oid":"444444444444444444444444"}]
+}
+{
+  "_id":{"$oid":"000000000000000000000003"},
+  "name":"Poptart, Inc.",
+  "email":"poptart@example.com",
+  "contact":"Poptart",
+  "products":[{"$oid":"555555555555555555555555"}, {"$oid":"666666666666666666666666"}]
+}
